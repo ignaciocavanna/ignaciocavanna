@@ -7,7 +7,7 @@ Full Stack Web Developer
 * 🌍  I'm based in Milan (Italy)
 * 🖥️  See my portfolio at [MyPortfolio](http://ignaciocavanna.com)
 * ✉️  You can contact me at [ignacioacavanna@gmail.com](mailto:ignacioacavanna@gmail.com)
-* 🧠  I'm learning ML and Algorit
+* 🧠  I'm learning ML and Algorithm
 * 🤝  I'm open to collaborating on WebApps of Any Kind
 
 <a href="https://www.x.com/ignaciocavanna" target="_blank" rel="noreferrer"><img
